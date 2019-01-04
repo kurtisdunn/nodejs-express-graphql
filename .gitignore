@@ -31,3 +31,4 @@ dist
 *.map
 *.swp
 tmp
+.DS_Store
